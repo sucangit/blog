@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>huxuyf的个人博客</title>
+  <title>Sucan's Blog</title>
   
   <subtitle>让生活变得更精彩</subtitle>
-  <link href="https://huxuyf.github.io/atom.xml" rel="self"/>
+  <link href="https://sucan.ml/atom.xml" rel="self"/>
   
-  <link href="https://huxuyf.github.io/"/>
-  <updated>2021-02-22T11:40:50.625Z</updated>
-  <id>https://huxuyf.github.io/</id>
+  <link href="https://sucan.ml/"/>
+  <updated>2021-10-13T17:34:22.600Z</updated>
+  <id>https://sucangit.github.io/blog/</id>
   
   <author>
     <name>huxuyf</name>
@@ -17,36 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
-    <link href="https://huxuyf.github.io/p/13522.html"/>
-    <id>https://huxuyf.github.io/p/13522.html</id>
-    <published>2021-02-21T11:12:41.000Z</published>
-    <updated>2021-02-22T11:40:50.625Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;这是一级标题&quot;&gt;&lt;a href=&quot;#这是一级标题&quot; class=&quot;headerlink&quot; title=&quot;这是一级标题&quot;&gt;&lt;/a&gt;这是一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="其他" scheme="https://huxuyf.github.io/categories/%E5%85%B6%E4%BB%96/"/>
-    
-    
-    <category term="测试" scheme="https://huxuyf.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="https://huxuyf.github.io/p/16107.html"/>
-    <id>https://huxuyf.github.io/p/16107.html</id>
-    <published>2021-02-20T12:14:38.923Z</published>
-    <updated>2021-02-20T12:14:38.924Z</updated>
+    <link href="https://sucangit.github.io/blog/p/16107.html"/>
+    <id>https://sucangit.github.io/blog/p/16107.html</id>
+    <published>2021-10-13T17:34:22.600Z</published>
+    <updated>2021-10-13T17:34:22.600Z</updated>
     
     
       
@@ -59,6 +34,31 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://sucangit.github.io/blog/p/13522.html"/>
+    <id>https://sucangit.github.io/blog/p/13522.html</id>
+    <published>2021-02-21T11:12:41.000Z</published>
+    <updated>2021-10-13T17:34:22.601Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;这是一级标题&quot;&gt;&lt;a href=&quot;#这是一级标题&quot; class=&quot;headerlink&quot; title=&quot;这是一级标题&quot;&gt;&lt;/a&gt;这是一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="其他" scheme="https://sucangit.github.io/blog/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="测试" scheme="https://sucangit.github.io/blog/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
